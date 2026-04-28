@@ -1,7 +1,7 @@
 fastapi
 uvicorn[standard]
 google-cloud-storage
-tensorflow
+tensorflow==2.15.0
 joblib
 numpy
 opencv-python
