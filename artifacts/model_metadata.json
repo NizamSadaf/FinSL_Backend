@@ -1,0 +1,5 @@
+{
+  "max_len": 200,
+  "feat_dim": 126,
+  "pad_value": 0.0
+}

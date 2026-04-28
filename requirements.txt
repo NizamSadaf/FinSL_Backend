@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-cloud-storage
+tensorflow
+joblib
+numpy
+opencv-python
+mediapipe
+python-multipart
